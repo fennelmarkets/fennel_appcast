@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Fennel App</title>
+    <description>Fennel App Descrption</description>
+    <language>en-us</language>
+    <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
+    <item>
+      <title>Version 1.2.8</title>
+      <pubDate>Wed, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <description>Update to version 1.2.8</description>
+      <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+      <sparkle:version>1.2.8</sparkle:version>
+      <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+    </item>
+  </channel>
+</rss>
