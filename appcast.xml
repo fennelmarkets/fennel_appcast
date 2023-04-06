@@ -11,7 +11,9 @@
       <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
       <sparkle:version>1.2.8</sparkle:version>
       <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
-      <sparkle:criticalUpdate />
+      <sparkle:tags>
+        <sparkle:criticalUpdate />
+      </sparkle:tags>
     </item>
   </channel>
 </rss>
