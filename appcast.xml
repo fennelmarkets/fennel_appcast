@@ -1,29 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Fennel App</title>
-    <description>Fennel App Descrption</description>
-    <language>en-us</language>
-    <item>
-      <title>Version 1.3.0</title>
-      <pubDate>Wed, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <description>Update to version 1.2.8</description>
-      <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-      <sparkle:version>1.3.0</sparkle:version>
-      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
-      <sparkle:tags>
-      </sparkle:tags>
-    </item>
-    <item>
-      <title>Version 1.2.8</title>
-      <pubDate>Wed, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <description>Update to version 1.2.8</description>
-      <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-      <sparkle:version>1.2.8</sparkle:version>
-      <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
-      <sparkle:tags>
-        <sparkle:criticalUpdate />
-      </sparkle:tags>
-    </item>
-  </channel>
+    <channel>
+        <title>Fennel App</title>
+        <description>Fennel App Descrption</description>
+        <language>en-us</language>
+        <item>
+            <title>Version 1.3.0</title>
+            <pubDate>Wed, 07 Apr 2023 00:00:00 +0000</pubDate>
+            <description>Update to version 1.2.8</description>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:version>1.3.0</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.fennel.app"
+                       sparkle:os="android"/>
+            <enclosure
+                    url="https://apps.apple.com/us/app/fennel-esg-stocks-etfs/id6443565903"
+                    sparkle:os="ios"/>
+            <sparkle:tags>
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>Version 1.2.8</title>
+            <pubDate>Wed, 06 Apr 2023 00:00:00 +0000</pubDate>
+            <description>Update to version 1.2.8</description>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:version>1.2.8</sparkle:version>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.fennel.app"
+                       sparkle:os="android"/>
+            <enclosure
+                    url="https://apps.apple.com/us/app/fennel-esg-stocks-etfs/id6443565903"
+                    sparkle:os="ios"/>
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
+        </item>
+    </channel>
 </rss>
