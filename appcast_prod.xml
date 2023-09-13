@@ -5,9 +5,9 @@
         <description>Fennel App Description</description>
         <language>en-us</language>
         <item>
-            <title>Version 1.6.0</title>
+            <title>Version 1.6.1</title>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <sparkle:version>1.6.0</sparkle:version>
+            <sparkle:version>1.6.1</sparkle:version>
             <enclosure url="https://play.google.com/store/apps/details?id=com.fennel.app"
                        sparkle:os="android"/>
             <enclosure
