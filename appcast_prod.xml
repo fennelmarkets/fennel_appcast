@@ -4,20 +4,22 @@
         <title>Fennel App</title>
         <description>Fennel App Description</description>
         <language>en-us</language>
+        <!-- Suggested update -->
         <item>
-            <title>Version 1.6.25</title>
+            <title>Version 1.6.27</title>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <sparkle:version>1.6.25</sparkle:version>
+            <sparkle:version>1.6.27</sparkle:version>
             <enclosure url="https://play.google.com/store/apps/details?id=com.fennel.app"
                        sparkle:os="android"/>
             <enclosure
                     url="https://apps.apple.com/us/app/fennel-esg-stocks-etfs/id6443565903"
                     sparkle:os="ios"/>
         </item>
+        <!-- Forced update -->
         <item>
-            <title>Version 1.6.24</title>
+            <title>Version 1.6.27</title>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <sparkle:version>1.6.24</sparkle:version>
+            <sparkle:version>1.6.27</sparkle:version>
             <enclosure url="https://play.google.com/store/apps/details?id=com.fennel.app"
                        sparkle:os="android"/>
             <enclosure
