@@ -6,8 +6,8 @@
         <language>en-us</language>
         <!-- Suggested update -->
         <item>
-            <title>Version 1.6.35</title>
-            <sparkle:version>1.6.35</sparkle:version>
+            <title>Version 1.6.38</title>
+            <sparkle:version>1.6.38</sparkle:version>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <enclosure url="https://play.google.com/store/apps/details?id=com.fennel.app"
                        sparkle:os="android"/>
@@ -17,8 +17,8 @@
         </item>
         <!-- Forced update -->
         <item>
-            <title>Version 1.6.35</title>
-            <sparkle:version>1.6.35</sparkle:version>
+            <title>Version 1.6.36</title>
+            <sparkle:version>1.6.36</sparkle:version>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <enclosure url="https://play.google.com/store/apps/details?id=com.fennel.app"
                        sparkle:os="android"/>
