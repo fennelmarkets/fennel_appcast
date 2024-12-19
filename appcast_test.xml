@@ -4,6 +4,7 @@
         <title>Fennel App Test</title>
         <description>Fennel App Test Appcast</description>
         <language>en-us</language>
+        <!-- Suggested update -->
         <item>
             <title>Version 1.6.43</title>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
@@ -14,6 +15,7 @@
                     url="https://apps.apple.com/us/app/fennel-esg-stocks-etfs/id6443565903"
                     sparkle:os="ios"/>
         </item>
+        <!-- Forced update -->
         <item>
             <title>Version 1.6.44</title>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
