@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Fennel App</title>
+        <description>Fennel App Description</description>
+        <language>en-us</language>
+        <!-- Suggested update -->
+        <item>
+            <title>Version 1.6.44</title>
+            <sparkle:version>1.6.44</sparkle:version>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure
+                    url="https://apps.apple.com/us/app/fennel-esg-stocks-etfs/id6443565903"
+                    sparkle:os="ios"/>
+        </item>
+        <!-- Forced update -->
+        <item>
+            <title>Version 1.6.43</title>
+            <sparkle:version>1.6.43</sparkle:version>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure
+                    url="https://apps.apple.com/us/app/fennel-esg-stocks-etfs/id6443565903"
+                    sparkle:os="ios"/>
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
+        </item>
+    </channel>
+</rss>
