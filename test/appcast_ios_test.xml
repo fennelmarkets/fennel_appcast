@@ -6,8 +6,8 @@
         <language>en-us</language>
         <!-- Suggested update -->
         <item>
-            <title>Version 1.6.50</title>
-            <sparkle:version>1.6.50</sparkle:version>
+            <title>Version 1.6.60</title>
+            <sparkle:version>1.6.60</sparkle:version>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <enclosure
                     url="https://apps.apple.com/us/app/fennel-esg-stocks-etfs/id6443565903"
@@ -15,8 +15,8 @@
         </item>
         <!-- Forced update -->
         <item>
-            <title>Version 1.6.50</title>
-            <sparkle:version>1.6.50</sparkle:version>
+            <title>Version 1.6.60</title>
+            <sparkle:version>1.6.60</sparkle:version>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <enclosure
                     url="https://apps.apple.com/us/app/fennel-esg-stocks-etfs/id6443565903"
